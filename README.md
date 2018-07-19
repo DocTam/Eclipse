@@ -66,4 +66,4 @@ M2E - http://download.eclipse.org/technology/m2e/milestones/1.4
 
 # 协议
 
-[MIT](https://github.com/DocTam/Wnmp/blob/master/LICENSE)
+[MIT](https://github.com/DocTam/Eclipse/blob/master/LICENSE)
